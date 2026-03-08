@@ -1,4 +1,4 @@
-# Template React Native 724
+# Template React Native 74
 
 A React Native 0.74 template project for quick setup and reference.
 
